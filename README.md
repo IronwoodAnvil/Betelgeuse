@@ -23,6 +23,7 @@ with neat things like p5.js, and web-based implementations of my projects. There
     <th>Oct</th>
   </tr>
   <tr>
+    <td colspan ="2"> xxx </td?>
     <td colspan="3"> Develop Engineering Portfolio </td>
     <td colspan="3"> Art Blog </td>
   </tr>

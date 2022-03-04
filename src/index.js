@@ -4,8 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from '@emotion/react';
 import theme from '@rebass/preset';
 
-import './index.css';
-import App from './App_reb';
+import App from './App_grom';
 import reportWebVitals from './reportWebVitals';
 
 
