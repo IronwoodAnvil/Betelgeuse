@@ -4,21 +4,21 @@ import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from '@emotion/react';
 import theme from '@rebass/preset';
 
-import App from './App_grom';
+import App from './components/App';
 import reportWebVitals from './reportWebVitals';
 
 
 //things go here
 
 // ========================================
-
+const rootElement = document.getElementById("root");
 render(
   <React.StrictMode>
     <BrowserRouter>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
-  document.getElementById('root')
+  rootElement
 );
 
 // If you want to start measuring performance in your app, pass a function
