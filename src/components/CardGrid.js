@@ -1,19 +1,12 @@
 import React, { useState } from 'react';
 import {
-  Avatar,
   Box,
-  Button,
   Card,
   CardBody,
   CardHeader,
-  CardFooter,
-  Collapsible,
   Grid,
-  Grommet,
   Heading,
   Image,
-  Layer,
-  ResponsiveContext,
   Stack,
   Text
 } from 'grommet';
