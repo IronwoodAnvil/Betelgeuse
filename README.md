@@ -49,12 +49,11 @@ with neat things like p5.js, and web-based implementations of my projects. There
 
 ## Things to think about:
 ### Frameworks
-- Material UI
+
 - React Router
 - Grommet /[guided tour /]
-- Rebass /[cant get this thing to do gd themes/]
 - next.js /[SSR and other optimizations /]
-
+- express [images and bits]
 #
 
 

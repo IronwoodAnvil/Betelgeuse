@@ -1,30 +1,15 @@
 import React, { useState } from 'react';
 import {
-  Avatar,
-  Anchor,
   Box,
-  Button,
-  Card,
-  CardBody,
-  CardHeader,
-  CardFooter,
-  Collapsible,
-  Grid,
   Grommet,
-  Heading,
-  Header,
-  Image,
-  Layer,
-  Nav,
   ResponsiveContext,
-  Stack,
-  Text
 } from 'grommet';
 import { FormClose, Notification } from 'grommet-icons';
 
 
 import CardGrid from './CardGrid';
 import { OnHeaderNav } from './OnHeader';
+import { ProjectCardLayer } from './ProjectCardLayer';
 
 const theme = {
   global: {
